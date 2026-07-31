@@ -1,6 +1,9 @@
 # 📋 Enterprise Project Charter Template
 
 ---
+A professional **Enterprise Project Charter Template** designed for PMO teams, Project Managers, Programme Managers, and Transformation Offices.
+
+This template follows PMO governance best practices and provides a structured approach for initiating projects, defining objectives, documenting scope, identifying stakeholders, planning timelines, and obtaining executive approvals.
 
 ## 🖼 Preview
 
@@ -11,10 +14,6 @@
 ### Page 2
 
 ![Project Charter Page 2](2.png)
-
-A professional **Enterprise Project Charter Template** designed for PMO teams, Project Managers, Programme Managers, and Transformation Offices.
-
-This template follows PMO governance best practices and provides a structured approach for initiating projects, defining objectives, documenting scope, identifying stakeholders, planning timelines, and obtaining executive approvals.
 
 ---
 
