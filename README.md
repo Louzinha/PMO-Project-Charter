@@ -24,7 +24,7 @@ This template follows PMO governance best practices and provides a structured ap
 
 Download the template here:
 
-**📄 PMO-Project Charter.pdf**
+**📄 Enterprise_Project_Charter_Template.pdf**
 
 ---
 
